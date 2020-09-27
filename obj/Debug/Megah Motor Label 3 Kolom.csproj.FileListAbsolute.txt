@@ -1,0 +1,26 @@
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\Megah Motor Label 3 Kolom.exe.config
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\Megah Motor Label 3 Kolom.exe
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\Megah Motor Label 3 Kolom.pdb
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\SdkApi.Core.dll
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\SdkApi.Desktop.dll
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\SdkApi.Desktop.Usb.dll
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\SharpSnmpLib.dll
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\Csv.dll
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\FluentFTP.dll
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\Windows.winmd
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\SdkApi.Core.pdb
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\SdkApi.Core.xml
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\SdkApi.Desktop.pdb
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\SdkApi.Desktop.xml
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\bin\Debug\SdkApi.Desktop.Usb.pdb
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\obj\Debug\Megah Motor Label 3 Kolom.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\obj\Debug\Megah_Motor_Label_3_Kolom.frmMain.resources
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\obj\Debug\Megah_Motor_Label_3_Kolom.Properties.Resources.resources
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\obj\Debug\Megah Motor Label 3 Kolom.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\obj\Debug\Megah Motor Label 3 Kolom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\obj\Debug\Megah Motor Label 3 Kolom.csproj.CopyComplete
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\obj\Debug\Megah Motor Label 3 Kolom.exe
+C:\Users\User\source\repos\Megah Motor Label 3 Kolom\obj\Debug\Megah Motor Label 3 Kolom.pdb
